@@ -1,4 +1,18 @@
+html,
 body{
+    text-align: center;
     margin: 0;
     font-family: sans-serif;
+}
+
+table, tr, td, th{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+form{
+    margin-top: 20px;
 }
